@@ -28,6 +28,7 @@ first_five = numbers[:5]
 
 reversed_list = first_five[::-1]
 
+print("Original list:", numbers)
 print("Extracted list:", first_five)
 print("Reversed list:", reversed_list)
 
